@@ -25,6 +25,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" **alt="Pytest" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
-  <img src="https://icons8.ru/icon/EPbEfEa7o8CB/postman-is-the-only-complete-api-development-environment" title="Postman" **alt="Postman" width="40" height="40"/>
-  
-</div>
+  </div>
