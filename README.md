@@ -9,7 +9,7 @@
 
 ### :man_technologist: About me 🤞
 
-I don't have an IT degree, but I do have experience and love for testing. I think I still have a lot to learn. I expect that I will meet new instruments and level up in the ones I already know. Feel free to ask questions and look for information on your own.
+Currently, I am trying to develop in the direction of quality assurance. I like to learn something new, don't hesitate to ask questions and look for information on my own.
 
 Superpower - I can figure out any topic overnight.
 
