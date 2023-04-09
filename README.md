@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Привет, я Андрей</h1>
+    <h1>Hi, I'm Andrei</h1>
     <h3>QA-engineer</h3>
 </div>
 
@@ -7,13 +7,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: Обо мне 🤞
+### :man_technologist: About me 🤞
 
-У меня нет диплома вышки в айти, но есть опыт и любовь к тестированию. Считаю, что мне многому ещё стоит научиться. Ожидаю, что встречу новые инструменты и прокачаюсь в уже знакомых. Не стесняюсь задавать вопросы и самостоятельно искать информацию.
+I don't have an IT degree, but I do have experience and love for testing. I think I still have a lot to learn. I expect that I will meet new instruments and level up in the ones I already know. Feel free to ask questions and look for information on your own.
 
-Суперсила — за ночь разберусь в любой теме.
+Superpower - I can figure out any topic overnight.
 
-### :hammer_and_wrench: Языки и инструменты :
+### :hammer_and_wrench: Languages and tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android studio" alt="Android studio" width="40" height="40"/>&nbsp;
